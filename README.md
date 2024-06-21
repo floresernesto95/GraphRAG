@@ -1,7 +1,7 @@
 # GraphRAG with Neo4j and Groq
 
 <p align="center">
-  <img src="https://github.com/floresernesto95/Images/blob/main/code_first_repo%201.webp.png"/>
+  <img src="https://github.com/floresernesto95/Images/blob/main/project-graph-rag-1.png"/>
 </p>
 
 ## Project Overview:
