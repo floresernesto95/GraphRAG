@@ -4,7 +4,7 @@
   <img src="https://github.com/floresernesto95/Images/blob/main/code_first_repo%201.webp.png"/>
 </p>
 
-## Project Overview: Advanced Data Processing, Graph Integration, and Enhanced Query Response with Python
+## Project Overview:
 
 This portfolio project demonstrates sophisticated implementation of data extraction, transformation, and loading (ETL) techniques using Python, combined with modern asynchronous programming, Neo4j graph database integration, and cutting-edge Retrieval-Augmented Generation (RAG) using Large Language Models (LLMs). The integration of RAG significantly enhances the project's capability to provide accurate, contextually relevant responses by leveraging external data sources.
 
