@@ -1,4 +1,4 @@
-### Updated Project Description with Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs)
+# GraphRAG with Neo4j and Groq
 
 <p align="center">
   <img src="https://github.com/floresernesto95/Images/blob/main/code_first_repo%201.webp.png"/>
