@@ -19,12 +19,12 @@ This portfolio project demonstrates sophisticated implementation of data extract
 1. **Asynchronous Programming**: Employing `llama-parse` to optimize efficiency during data fetching and processing.
 2. **Graph Database Management**: Using Neo4j for sophisticated data modeling and querying, enabling structured data storage and retrieval.
 3. **Data Parsing and Transformation**: Automated extraction and transformation of data from PDFs into structured Markdown with LlamaParse.
-4. **Retrieval-Augmented Generation (RAG)**: Integrating RAG to improve the quality of generated responses. RAG enhances the capabilities of LLMs by retrieving relevant information from external databases, files, or APIs before generating responses. This approach enriches the generative models, making them more accurate and reliable【9†source】.
+4. **Retrieval-Augmented Generation (RAG)**: Integrating RAG to improve the quality of generated responses. RAG enhances the capabilities of LLMs by retrieving relevant information from external databases, files, or APIs before generating responses. This approach enriches the generative models, making them more accurate and reliable.
 
 ### RAG Implementation Details:
 
 - **Data Retrieval and Integration**: Implementing a retrieval model that searches through external data chunks, efficiently enhancing the LLM’s generation capabilities by providing it with relevant, up-to-date information.
-- **Dynamic Response Enhancement**: Leveraging the RAG framework, the project dynamically pulls in the most relevant data from pre-determined, authoritative sources to generate responses that are not only pertinent but also current【10†source】【11†source】.
+- **Dynamic Response Enhancement**: Leveraging the RAG framework, the project dynamically pulls in the most relevant data from pre-determined, authoritative sources to generate responses that are not only pertinent but also current.
 
 ### Conclusion:
 This project not only underscores my expertise in Python, asynchronous programming, and Neo4j but also highlights my ability to implement advanced AI techniques like RAG in real-world applications. It exemplifies a robust approach to building sophisticated ETL pipelines that integrate diverse technologies to deliver efficient and scalable solutions.
